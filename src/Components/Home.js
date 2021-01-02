@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Home = () => (
    <div>
-      {/* <h2>Hello World</h2> */}
+      <h2>Hello World</h2>
       <p>I'm Wahid, Completed my Engineering in 2020 at Maratha Mandal Engineering College Belagavi . I scored above 70% in schools & completed B.E in Computer Science.
 
          I have completed my one month internship at Techify India Pvt Limited on Web Development. From my childhood I loves to work with computer and programming.
