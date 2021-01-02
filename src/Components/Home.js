@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Home = () => {
+export const Home = () => (
    <div>
       <h2>Hello World</h2>
       <p>I'm Wahid, Completed my Engineering in 2020 at Maratha Mandal Engineering College Belagavi . I scored above 70% in schools & completed B.E in Computer Science.
@@ -17,4 +17,6 @@ export const Home = () => {
          Thank you.
       </p>
    </div>
-}
+)
+
+export default Home;
