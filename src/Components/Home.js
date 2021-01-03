@@ -29,13 +29,26 @@ export const Home = () => (
          3. Project Title: - e-Governance
          Description : We have develop  software application for e-Governance system to keep track of the ongoing projects using front end as HTML, Javascript and PHP as the backend.
          Software Used : OS- Windows, Language – HTML,Php.
-         
+
          4. Project Title: - Cashew Grade Checker Using Arduino and Load Cell
          Description: To design and develop an IoT based Cashew Grade Checker using Arduino and Load Cell to check whether the Grading process is done properly or not.
          Software used:
          Languages: C, C++
          Software: Arduino AU
          Platform: Linux/Windows.
+
+         Bachelor Of Engineering (COMPUTER SCIENCE)    	               	Graduated, 2020
+         Maratha Mandal Engineering College                   		  		   Marks/CGPA-	7.0
+         (approved by AICTE, New Delhi & Affilated to VTU, Belagavi)					
+         Belagavi, Karnataka-590010
+         PUC  (SCIENCE)							                                 Graduated, 2016
+         Govindram Seksaria Science College 					                  Marks 65%				
+         Belagavi, Karnataka-590010
+         High School								                                  Completion, 2014
+         Swami Vivekanand English Medium High School Khanapur		          Marks 78%
+         (Karnataka Secondary Education Examination Board)			
+         Belagavi, Karnataka-590010
+
 
       </p>
    </div>
