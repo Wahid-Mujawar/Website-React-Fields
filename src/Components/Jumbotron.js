@@ -31,7 +31,7 @@ export const Jumbotron = () => (
       <div className="overlay"></div>
       <Container>
         <h1>Welcome</h1>
-        {/* <p>Learn to Code In Framework Called React.js</p> */}
+        <p>Learn to Code In Framework Called React.js</p>
       </Container>
     </Jumbo>
   </Styles>
