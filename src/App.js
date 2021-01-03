@@ -5,11 +5,13 @@ import {Home} from './Components/Home';
 import {About} from './Components/About';
 import {Contact} from './Components/Contact';
 import {NoMatch} from './Components/Nomatch';
+import {Layout} from './Components/Layout';
 
 class App extends Component {
   render () {
     return (
       <React.Fragment>
+        <Layout>
         <Router>
           <Switch>
             <Route exact path="/" component={Home}/>
@@ -18,6 +20,7 @@ class App extends Component {
             <Route component={NoMatch}/>
           </Switch>
         </Router>
+        </Layout>
       </React.Fragment>
     )
   }
