@@ -7,12 +7,14 @@ import {Contact} from './Components/Contact';
 import {NoMatch} from './Components/Nomatch';
 import {Layout} from './Components/Layout';
 import {Navigationbar} from './Components/NavigationBar';
+import {Jumbotron} from './Components/Jumbotron';
 
 class App extends Component {
   render () {
     return (
       <React.Fragment>
         <Navigationbar/>
+        <Jumbotron/>
         <Layout>
         <Router>
           <Switch>
