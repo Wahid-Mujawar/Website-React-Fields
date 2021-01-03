@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Home = () => (
    <div>
-      <h2>Hello World</h2>
+      <h2>Hello</h2>
       <p>I'm Wahid, Completed my Engineering in 2020 at Maratha Mandal Engineering College Belagavi . I scored above 70% in schools & completed B.E in Computer Science.
 
          I have completed my one month internship at Techify India Pvt Limited on Web Development. From my childhood I loves to work with computer and programming.
@@ -15,25 +15,21 @@ export const Home = () => (
          Phone- 8088686729
 
          <br/>
-
-         Completed one month internship program at Techify India Pvt Ltd on “Internet of Things” and “Web Development”
-         Hard working and good team’s member.
-
-         <br/>
          <br/>
          Projects
+         <br/>
          1. Project Title: - Feedback System
          Description: We have developed a stand alone software application, used to maintain the feedback record.
          Software Used : Front End : Visual Studio ,Language : C-Sharp, Back End : MySQL server.
-
+         <br/>
          2. Project Title: -  Graphical Robot
          Description: The objective of the project was to implement the “Graphical Robot”. It performed some movement such as lifting the left arm and right arm also has the movement of left leg, right leg along with the side view and front view. 
          Software Used : OS – Windows 10, Software – Dev-Cpp , OpenGL.
-
+         <br/>
          3. Project Title: - e-Governance
          Description : We have develop  software application for e-Governance system to keep track of the ongoing projects using front end as HTML, Javascript and PHP as the backend.
          Software Used : OS- Windows, Language – HTML,Php.
-
+         <br/>
          4. Project Title: - Cashew Grade Checker Using Arduino and Load Cell
          Description: To design and develop an IoT based Cashew Grade Checker using Arduino and Load Cell to check whether the Grading process is done properly or not.
          Software used:

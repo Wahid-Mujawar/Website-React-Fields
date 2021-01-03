@@ -2,11 +2,15 @@ import React from 'react';
 
 export const Contact = () => (
    <div>
-      <h2>Contact Us</h2>
-      <p>
-         Completed one month internship program at Techify India Pvt Ltd on “Web Development”.
-         Hard working and good team’s member.
-      </p>
+      <h2>Contact Me</h2>
+					   
+         AbdulWahid Mujawar<br/>
+         Masajid Galli Halasi (591120)< br /> 
+         Tq-Khanapur
+         Dist-Belagavi <br />
+         Belagavi  Karnataka (590001)<br />
+         8088686729
+			
    </div>
 )
 export default Contact;
