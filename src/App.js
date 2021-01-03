@@ -6,11 +6,13 @@ import {About} from './Components/About';
 import {Contact} from './Components/Contact';
 import {NoMatch} from './Components/Nomatch';
 import {Layout} from './Components/Layout';
+import {Navigationbar} from './Components/NavigationBar';
 
 class App extends Component {
   render () {
     return (
       <React.Fragment>
+        <Navigationbar/>
         <Layout>
         <Router>
           <Switch>
