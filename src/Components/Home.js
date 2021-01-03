@@ -14,9 +14,13 @@ export const Home = () => (
          Email- abdulwahid0218@gmail.com
          Phone- 8088686729
 
+         <br/>
+
          Completed one month internship program at Techify India Pvt Ltd on “Internet of Things” and “Web Development”
          Hard working and good team’s member.
 
+         <br/>
+         <br/>
          Projects
          1. Project Title: - Feedback System
          Description: We have developed a stand alone software application, used to maintain the feedback record.
@@ -37,6 +41,8 @@ export const Home = () => (
          Software: Arduino AU
          Platform: Linux/Windows.
 
+         <br/>
+         <br/>
          Bachelor Of Engineering (COMPUTER SCIENCE)    	               	Graduated, 2020
          Maratha Mandal Engineering College                   		  		   Marks/CGPA-	7.0
          (approved by AICTE, New Delhi & Affilated to VTU, Belagavi)					
