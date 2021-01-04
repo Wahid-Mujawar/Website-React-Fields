@@ -1,7 +1,7 @@
 import React from 'react';
 import { Jumbotron as Jumbo, Container } from 'react-bootstrap';
 import styled from 'styled-components';
-// import CristianoRonaldo1 from '../Components/CristianoRonaldo1.jpg';
+import CristianoRonaldo1 from '../Components/CristianoRonaldo1.jpg';
 
 
 const Styles = styled.div`
