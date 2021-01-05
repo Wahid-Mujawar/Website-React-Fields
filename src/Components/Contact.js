@@ -4,7 +4,7 @@ export const Contact = () => (
    <div>
       <h2>Contact Me</h2>
 					   
-         {/* AbdulWahid Mujawar<br/> */}
+         AbdulWahid Mujawar<br/>
          {/* Masajid Galli Halasi (591120)< br />  */}
          {/* Tq-Khanapur */}
          {/* Dist-Belagavi <br /> */}
